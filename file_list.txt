@@ -1,0 +1,59 @@
+1004. Max Consecutive Ones III - Sliding Window Solution.py
+1046. Last Stone Weight.py
+11. Container With Most Water.py
+1190. Reverse Substrings Between Each Pair of Parentheses.py
+1365. How Many Numbers Are Smaller Than the Current Number.py
+1475. Final Prices With a Special Discount in a Shop.py
+15. 3Sum.py
+150. Evaluate Reverse Polish Notation.py
+1512. Number of Good Pairs.py
+1561. Maximum Number of Coins You Can Get.py
+1630. Arithmetic Subarrays.py
+179. Largest Number.py
+1823. Find the Winner of the Circular Game.py
+189. Rotate Array.py
+1985. Find the Kth Largest Integer in the Array.py
+2. Add Two Numbers.py
+20. Valid Parentheses.py
+2007. Find Original Array From Doubled Array.py
+215. Kth Largest Element in an Array.py
+219. Contains Duplicate II.py
+2260. Minimum Consecutive Cards to Pick Up.py
+227. Basic Calculator II.py
+238. Product of Array Except Self.py
+274. H-Index.py
+283. Move Zeroes.py
+287. Find the Duplicate Number.py
+3. Longest Substring Without Repeating Characters.py
+304. Range Sum Query 2D - Immutable.py
+347. Top K Frequent Elements.py
+387. First Unique Character in a String.py
+412. Fizz Buzz.py
+443. String Compression.py
+496. Next Greater Element I.py
+503. Next Greater Element II.py
+509. Fibonacci Number.py
+54. Spiral Matrix.py
+56. Merge Intervals.py
+560. Subarray Sum Equals K.py
+641. Design Circular Deque.py
+713. Subarray Product Less Than K.py
+724. Find Pivot Index.py
+853. Car Fleet.py
+881. Boats to Save People.py
+904. Fruit Into Baskets.py
+945. Minimum Increment to Make Array Unique.py
+973. K Closest Points to Origin.py
+Counting Valleys.py
+Cycle Detection.py
+Grading Students.py
+README.md
+arrays
+file_list.txt
+heaps
+linked-list
+prefix-sum
+recursion
+sorting
+stacks-and-queues
+two-pointers-and-sliding-window
